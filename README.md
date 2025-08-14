@@ -18,8 +18,9 @@
 **PS:**
 🚨 • | Si jamais vous n'êtes pas sûr que celà fonctionne sur votre windows (casi impossible), créez un point de restauration pour revenir en arrière en cas de soucis 
 ## :file_folder: Contenu du Dossier
-:option_yes:  • | Installat° des bibliothèques NET.Native.Framework, NET.Native.Runtime, UI.Xaml, VCLibs -- *Corrections Windows 10 (liste dans le dossier)*.
-:option_yes:  • | Installat° du Microsoft Store *(vous pouvez fermer la fenêtre du script à cette étape si vous ne souhaitez PAS installer le Store)*.
+👀  • | Installat° des bibliothèques NET.Native.Framework, NET.Native.Runtime, UI.Xaml, VCLibs -- *Corrections Windows 10 (liste dans le dossier)*.
+
+👀  • | Installat° du Microsoft Store *(vous pouvez fermer la fenêtre du script à cette étape si vous ne souhaitez PAS installer le Store)*.
 ## Commande d'installation intégrée facile du Microsoft Store
 Exécuter en tant qu'admin :
 ```
